@@ -1,3 +1,5 @@
+## [4.3.1](https://github.com/PedroBern/react-native-collapsible-tab-view/compare/v4.3.0...v4.3.1) (2021-08-12)
+
 # [4.3.0](https://github.com/PedroBern/react-native-collapsible-tab-view/compare/v4.2.1...v4.3.0) (2021-08-12)
 
 
