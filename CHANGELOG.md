@@ -1,3 +1,10 @@
+# [4.3.0](https://github.com/PedroBern/react-native-collapsible-tab-view/compare/v4.2.1...v4.3.0) (2021-08-12)
+
+
+### Features
+
+* add onScroll prop to flatlist ([43ded98](https://github.com/PedroBern/react-native-collapsible-tab-view/commit/43ded9828d95621ab6f24f3873ef3e87b95475fb))
+
 ## [4.2.1](https://github.com/PedroBern/react-native-collapsible-tab-view/compare/v4.2.0...v4.2.1) (2021-07-28)
 
 
